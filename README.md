@@ -6,6 +6,8 @@ Technology used: *sql, python, ipython-sql*
 
 This project uses a database of all historical Premier League results to analyze each team performances, league record etc.
 
+Data source: [Kaggle](https://www.kaggle.com/datasets/evangower/premier-league-matches-19922022)
+
 The project includes:
 - performing operations on database, calculations, statistics
 - creating new tables
