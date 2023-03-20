@@ -4,15 +4,13 @@ Technology used: *sql, python, ipython-sql*
 
 ## Abstract
 
-In this project .
-
+This project uses a database of all historical Premier League results to analyze each team performances, league record etc.
 
 The project includes:
-- creating a database, new tables
-- adding and changing data and structure of tables
-- adding primary/foreign keys and relations between tables
-- checking errors/correction check (relations)
-- performing operations on tables, statistics
+- performing operations on database, calculations, statistics
+- creating new tables
+- grouping and sorting data
+- using subquery to extract desired data and joined them with existing data in table
 
 
 ## Creating a database and tables
